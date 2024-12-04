@@ -1,0 +1,13 @@
+[
+    {"name": "joHn doe", "email": "JOHN@example.com", "phone_number": "123-456-7890", "address": "123 Main St, New York, NY, 10001"},
+    {"name": "jane smith", "email": "Jane.Smith@Email.com", "phone_number": "(123) 456 7890", "address": "456 Elm St, Los Angeles, CA, 90001"},
+    {"name": "john doe", "email": "john@example.com", "phone_number": "1234567890", "address": "123 Main St, New York, NY, 10001"},
+    {"name": "shreya swain", "email": "Shreya@example.com", "phone_number": "999-888-2223", "address": "New St, Pune, PN, 10002"},
+    {"name": "ankita pani", "email": "ankita.pani@Email.com", "phone_number": "9876163998", "address": "Bellandur St, Bangalore, BLR, 90009"},
+    {"name": "rutuja bhagat", "email": "rutuja@example.com", "phone_number": "981-291-9191", "address": "Bellandur St, Bangalore, BLR, 90009"},
+    {"name": "raina raval", "email": "raina.raval@Email.com", "phone_number": "9090909090", "address": "High St, Pune, PN, 10002"},
+    {"name": "shruti chobe", "email": "Shruti@example.com", "phone_number": "808-988-9899", "address": "Whitefield St, Bangalore, BLR, 90009"},
+    {"name": "shreya swain", "email": "shreya@example.com", "phone_number": "9998882223", "address": "New St, Pune, PN, 10002"},
+    {"name": "ankita pani", "email": "ANKITA.PANI@email.com", "phone_number": "(987) 616-3998", "address": "Bellandur St, Bangalore, BLR, 90009"},
+    {"name": "rutuja bhagat", "email": "rutuja@example.com", "phone_number": "981-291-9191", "address": "Bellandur St, Bangalore, BLR, 90009"}
+]

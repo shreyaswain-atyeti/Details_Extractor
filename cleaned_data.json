@@ -1,0 +1,126 @@
+[
+    {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "phone_number": "(123) 456-7890",
+        "address": {
+            "street": "123 Main St",
+            "city": " New York",
+            "state": " NY",
+            "zip": " 10001"
+        }
+    },
+    {
+        "name": "Jane Smith",
+        "email": "jane.smith@email.com",
+        "phone_number": "(123) 456-7890",
+        "address": {
+            "street": "456 Elm St",
+            "city": " Los Angeles",
+            "state": " CA",
+            "zip": " 90001"
+        }
+    },
+    {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "phone_number": "(123) 456-7890",
+        "address": {
+            "street": "123 Main St",
+            "city": " New York",
+            "state": " NY",
+            "zip": " 10001"
+        }
+    },
+    {
+        "name": "Shreya Swain",
+        "email": "shreya@example.com",
+        "phone_number": "(999) 888-2223",
+        "address": {
+            "street": "New St",
+            "city": " Pune",
+            "state": " PN",
+            "zip": " 10002"
+        }
+    },
+    {
+        "name": "Ankita Pani",
+        "email": "ankita.pani@email.com",
+        "phone_number": "(987) 616-3998",
+        "address": {
+            "street": "Bellandur St",
+            "city": " Bangalore",
+            "state": " BLR",
+            "zip": " 90009"
+        }
+    },
+    {
+        "name": "Rutuja Bhagat",
+        "email": "rutuja@example.com",
+        "phone_number": "(981) 291-9191",
+        "address": {
+            "street": "Bellandur St",
+            "city": " Bangalore",
+            "state": " BLR",
+            "zip": " 90009"
+        }
+    },
+    {
+        "name": "Raina Raval",
+        "email": "raina.raval@email.com",
+        "phone_number": "(909) 090-9090",
+        "address": {
+            "street": "High St",
+            "city": " Pune",
+            "state": " PN",
+            "zip": " 10002"
+        }
+    },
+    {
+        "name": "Shruti Chobe",
+        "email": "shruti@example.com",
+        "phone_number": "(808) 988-9899",
+        "address": {
+            "street": "Whitefield St",
+            "city": " Bangalore",
+            "state": " BLR",
+            "zip": " 90009"
+        }
+    },
+    {
+        "name": "Shreya Swain",
+        "email": "shreya@example.com",
+        "phone_number": "(999) 888-2223",
+        "address": {
+            "street": "New St",
+            "city": " Pune",
+            "state": " PN",
+            "zip": " 10002"
+        }
+    },
+    {
+        "name": "Ankita Pani",
+        "email": "ankita.pani@email.com",
+        "phone_number": "(987) 616-3998",
+        "address": {
+            "street": "Bellandur St",
+            "city": " Bangalore",
+            "state": " BLR",
+            "zip": " 90009"
+        }
+    },
+    {
+        "state_abbreviation": [
+            " NY",
+            " CA",
+            " NY",
+            " PN",
+            " BLR",
+            " BLR",
+            " PN",
+            " BLR",
+            " PN",
+            " BLR"
+        ]
+    }
+]
